@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Montage",
+  "base_artist": "Porno Graffitti",
+  "createdAt": "2026-03-06T15:43:56.857904Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jack and Sally Montage",
+      "artist": "Danny Elfman",
+      "has_synced": false,
+      "path": "select/01_Jack_and_Sally_Montage_Danny_Elfman.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Smile Backing Vocals Montage",
+      "artist": "The Beach Boys",
+      "has_synced": true,
+      "path": "select/02_Smile_Backing_Vocals_Montage_The_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Training Montage",
+      "artist": "The Mountain Goats",
+      "has_synced": true,
+      "path": "select/03_Training_Montage_The_Mountain_Goats.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cudi Montage",
+      "artist": "KIDS SEE GHOSTS",
+      "has_synced": true,
+      "path": "select/04_Cudi_Montage_KIDS_SEE_GHOSTS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Natsuno Montage",
+      "artist": "Mariya Takeuchi",
+      "has_synced": true,
+      "path": "select/05_Natsuno_Montage_Mariya_Takeuchi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Smile Backing Vocals Montage (Bonus Track)",
+      "artist": "Beach Boys",
+      "has_synced": true,
+      "path": "select/06_Smile_Backing_Vocals_Montage_(Bonus_Track)_Beach_Boys.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Crush - Toyota Pavilion At Montage Mountain / Scranton, PA",
+      "artist": "Dave Matthews Band",
+      "has_synced": true,
+      "path": "select/07_Crush_-_Toyota_Pavilion_At_Montage_Mountain___Scranton,_PA_Dave_Matthews_Band.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pay For What You Get - Toyota Pavilion At Montage Mountain / Scranton, PA",
+      "artist": "Dave Matthews Band",
+      "has_synced": true,
+      "path": "select/08_Pay_For_What_You_Get_-_Toyota_Pavilion_At_Montage_Mountain___Scranton,_PA_Dave_Matthews_Band.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Montage",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_Montage_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Montage",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_02_Montage_ポルノグラフィティ.txt"
+    }
+  ]
+}
